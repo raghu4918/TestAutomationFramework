@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T16:10:20 IST" name="Default suite" finished-at="2022-11-21T16:10:28 IST" duration-ms="7882">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T16:10:20 IST" name="Default test" finished-at="2022-11-21T16:10:28 IST" duration-ms="7882">
+      <class name="POM_TEST_CASES.DWS_MULTIPLEHANDLE_TEST">
+        <test-method is-config="true" signature="browser_setup()[pri:0, instance:POM_TEST_CASES.DWS_MULTIPLEHANDLE_TEST@750e2b97]" started-at="2022-11-21T16:10:20 IST" name="browser_setup" finished-at="2022-11-21T16:10:28 IST" duration-ms="7480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_setup -->
+        <test-method signature="Tc12()[pri:0, instance:POM_TEST_CASES.DWS_MULTIPLEHANDLE_TEST@750e2b97]" started-at="2022-11-21T16:10:28 IST" name="Tc12" finished-at="2022-11-21T16:10:28 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc12 -->
+      </class> <!-- POM_TEST_CASES.DWS_MULTIPLEHANDLE_TEST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
